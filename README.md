@@ -1,16 +1,18 @@
 ### Hi there 👋
 
-<!--
-**viukpe/viukpe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Victor and I'm a computer science student in Canada. Here's some info about me!
 
-Here are some ideas to get you started:
+⚡ Work experience: 
+- Software Developer at ClearRisk Inc. - Full-stack development on the Cloud Engineering team. - St. John's, NL [Sept 2021 - Sept 2022]
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+🌱 Interests: 
+- Data Science
+- Web development
+
+
+
+💬 Reach me by email or LinkedIn! viukpe@gmail.com | https://www.linkedin.com/in/victor-ukpe-726475177/
+
+📫 Visit my website: https://viukpe.com
