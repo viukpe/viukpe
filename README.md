@@ -10,6 +10,7 @@ My name is Victor and I'm a computer science student in Canada. Here's some info
 - Software engineering
 - Data Science
 - Web development
+- cloud technologies
 - Machine learning / Artificial intelligence 
 
 
