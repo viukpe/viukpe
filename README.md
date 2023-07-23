@@ -11,8 +11,11 @@ My name is Victor and I'm a computer science student in Canada. Here's some info
 - Data Science
 - Web development
 - cloud technologies
-- Machine learning / Artificial intelligence 
+- Machine learning / Artificial intelligence
 
+🔭 Currently : 
+- Building data pipelines on AWS.
+- Studying for the AWS Certified Data Analytics Specialty exam.
 
 
 💬 Reach me by email or LinkedIn! viukpe@gmail.com | https://www.linkedin.com/in/victor-ukpe-726475177/
