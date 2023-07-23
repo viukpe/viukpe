@@ -1,6 +1,6 @@
 ### Hello there 👋
 
-My name is Victor and I'm a computer science student in Canada. Here's some info about me!
+My name is Victor and I'm a recent computer science graduate in Canada. Here's some info about me!
 
 ⚡ Work experience: 
 - Software Developer at ClearRisk Inc. - Full-stack development on the Cloud Engineering team. - St. John's, NL [Sept 2021 - Sept 2022]
