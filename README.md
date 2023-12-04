@@ -8,8 +8,7 @@ My name is Victor and I'm a recent computer science graduate in Canada. Here's s
 
 🌱 Interests: 
 - Software engineering
-- Data Science
-- Web development
+- Data Engineering
 - cloud technologies
 - Machine learning / Artificial intelligence
 
